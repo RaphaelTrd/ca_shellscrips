@@ -17,3 +17,5 @@ read -p 'username : ' user_var
 read -sp 'password : ' password_var #sneacky
 echo "Le username is $user_var" 
 
+touch #creer un doc[+extention] dans le rep actuel
+
