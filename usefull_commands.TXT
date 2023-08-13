@@ -8,6 +8,8 @@ apt install
 cd #acceder
 ls #lister
 ls -al #lister avec le detail des permissions
+
+touch #creer un doc[+extention] dans le rep actuel
 chmod +x #ajouter le droit a l execution
 ./XXX.sh #lancer le script
 bash my_shopping.sh apple 5 banana 8 "Fruit Basket" 15
@@ -17,5 +19,4 @@ read -p 'username : ' user_var
 read -sp 'password : ' password_var #sneacky
 echo "Le username is $user_var" 
 
-touch #creer un doc[+extention] dans le rep actuel
 
