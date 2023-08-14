@@ -14,7 +14,7 @@
 #  
 #  #To evaluate the number of elements in an array
 #  echo ${#array[@]}
-
+ 
 #  # Practice :
 
 #	In this exercise, you will need to compare three list of arrays and write the common elements of all the three arrays:
